@@ -1,0 +1,42 @@
+[
+  {
+    "feature_name": "Automated Post-Purchase Surveys",
+    "categories": ["VoC - Surveys"],
+    "description": "Automatically sends surveys via email or SMS after transactions.",
+    "keywords": ["customer feedback", "post-purchase", "surveys", "consistent collection"],
+    "pain_points_addressed": ["Struggling to collect customer feedback consistently after a purchase."],
+    "more_info_link": "https://filum.ai/docs/voc-surveys"
+  },
+  {
+    "feature_name": "AI Agent for FAQ & First Response",
+    "categories": ["AI Customer Service - AI Inbox"],
+    "description": "Handles common queries with instant AI responses.",
+    "keywords": ["repetitive questions", "support overload", "FAQ deflection"],
+    "pain_points_addressed": ["Support agents overwhelmed by high volume of repetitive questions."],
+    "more_info_link": "https://filum.ai/docs/ai-inbox"
+  },
+  {
+    "feature_name": "Customer Journey Experience Analysis",
+    "categories": ["Insights - Experience"],
+    "description": "Analyzes feedback and data to identify friction in customer journeys.",
+    "keywords": ["touchpoint frustration", "journey analysis", "friction points"],
+    "pain_points_addressed": ["No clear idea which customer touchpoints are causing the most frustration."],
+    "more_info_link": "https://filum.ai/docs/insights-experience"
+  },
+  {
+    "feature_name": "Customer Profile with Interaction History",
+    "categories": ["Customer 360 - Customers & AI Inbox"],
+    "description": "Provides a unified view of customer interactions across channels.",
+    "keywords": ["single view", "interaction history", "customer profile", "consolidated touchpoints"],
+    "pain_points_addressed": ["Difficult to get a single view of a customer's interaction history when they contact us."],
+    "more_info_link": "https://filum.ai/docs/customer-360"
+  },
+  {
+    "feature_name": "AI-Powered Topic & Sentiment Analysis for VoC",
+    "categories": ["VoC - Conversations/Surveys", "Insights - Experience"],
+    "description": "Automatically analyzes text feedback for themes and emotions.",
+    "keywords": ["open-ended responses", "theme analysis", "sentiment extraction", "time-consuming manual review"],
+    "pain_points_addressed": ["Manually analyzing thousands of open-ended survey responses for common themes is too time-consuming."],
+    "more_info_link": "https://filum.ai/docs/voc-analysis"
+  }
+]
